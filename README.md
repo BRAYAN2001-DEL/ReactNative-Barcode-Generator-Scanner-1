@@ -26,7 +26,7 @@ A simple React Native mobile application to generate, share & scan barcode. Supp
 - __Start the application:__
 
   ```
-  $ npx react-native run-android
+  $ <npx react-native run-android>
   ```
   or
   ```
